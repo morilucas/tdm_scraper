@@ -1,17 +1,4 @@
 Last TD,New Entry
-Elevance Health (Security Use Cases Surrounding Abnormalities and Outliers),Yes
-Evonik (Automation of Material Construction Matrices),Yes
-HUMN Capital (Business Intelligence),Yes
-Inari (Simulation and Optimization for Crop Improvement),Yes
-John Deere (Field Boundary),Yes
-John Deere (Parts Demand Forecasting),Yes
-Knudsen Institute (Training LLMs within Manufacturing),Yes
-NIIMBL (Simulated Manufacturing),Yes
-Raytheon (RTX) (Smart RF Signal Classification),Yes
-Sandia (Flight) (Trajectory Prediction),Yes
-UNDECIDED,Yes
-Undecided,Yes
-Wabash (E-Commerce Website Analytics & Support),Yes
 AgRPA (Data Fusion and AI for Plant Protection),No
 AgReliant Genetics (Customer Segmentation & Prediction),No
 Allison Transmission (Clustering Vehicles Based on their Usage Metrics),No
@@ -29,3 +16,16 @@ Cook Medical (Clinical Study Meta-Data Monitoring),No
 Corteva (Climate Change Impact on Crop Yield),No
 Delta Faucet (Projecting Future Product Contacts and Defects),No
 Elevance Health (Detection of Digital Fraud),No
+Elevance Health (Security Use Cases Surrounding Abnormalities and Outliers),No
+Evonik (Automation of Material Construction Matrices),No
+HUMN Capital (Business Intelligence),No
+Inari (Simulation and Optimization for Crop Improvement),No
+John Deere (Field Boundary),No
+John Deere (Parts Demand Forecasting),No
+Knudsen Institute (Training LLMs within Manufacturing),No
+NIIMBL (Simulated Manufacturing),No
+Raytheon (RTX) (Smart RF Signal Classification),No
+Sandia (Flight) (Trajectory Prediction),No
+UNDECIDED,No
+Undecided,No
+Wabash (E-Commerce Website Analytics & Support),No
