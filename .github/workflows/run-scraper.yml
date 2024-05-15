@@ -2,7 +2,7 @@ name: Run Scraper Daily
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # This cron schedule is in UTC time
+    - cron: '0 13 * * *'  # This cron schedule is in UTC time
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v3
       with:
-        python-version: '3.11'
+        python-version: '3.9'
 
     - name: Install dependencies
       run: |
@@ -27,8 +27,6 @@ jobs:
       run: python scraper.py
 
     - name: Commit and Push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.name "Lucas Mori"
         git config --global user.email "lucaskmori@gmail.com"
