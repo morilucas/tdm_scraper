@@ -1,8 +1,4 @@
 Last TD,New Entry
-Purdue Student Life (Recreation and Wellness Data),Yes
-Syngenta (Predictive Product Placement Using Machine Learning),Yes
-"Transition Path (Capture, Codification, Transfer)",Yes
-Yamaha (Production Scheduling Optimization),Yes
 AgRPA (Data Fusion and AI for Plant Protection),No
 AgReliant Genetics (Customer Segmentation & Prediction),No
 Allison Transmission (Clustering Vehicles Based on their Usage Metrics),No
@@ -35,12 +31,16 @@ MISO (Data-Driven Solutions for the Reliable Operation of the Changing Electric 
 Microsoft (Social Analysis Platform),No
 NIIMBL (Simulated Manufacturing),No
 Purdue Athletics (Ticketing),No
+Purdue Student Life (Recreation and Wellness Data),No
 Raytheon (RTX) (Smart RF Signal Classification),No
 Sandia (Flight) (Trajectory Prediction),No
 Stratolaunch (Achieving Hypersonic Similitude),No
+Syngenta (Predictive Product Placement Using Machine Learning),No
 The Aerospace Corporation (Spacecraft Data Wrangler),No
+"Transition Path (Capture, Codification, Transfer)",No
 UNDECIDED,No
 Undecided,No
 V2X (Maintenance Troubleshooter LLM),No
 Viasat (Art of Space Warfare),No
 Wabash (E-Commerce Website Analytics & Support),No
+Yamaha (Production Scheduling Optimization),No
