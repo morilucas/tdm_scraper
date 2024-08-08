@@ -1,7 +1,4 @@
 Last TD,New Entry
-Caterpillar (Enterprise Supplier Risk Management),Yes
-Chicago Cubs Baseball Analytics (Award Prediction Model),Yes
-Mathwork/Purdue Turf (Development of a Learned Language Model),Yes
 AgRPA (Data Fusion and AI for Plant Protection),No
 AgReliant Genetics (Customer Segmentation & Prediction),No
 Allison Transmission (Clustering Vehicles Based on their Usage Metrics),No
@@ -18,8 +15,10 @@ BASF (Miticides Use Pattern Analytics ),No
 BASF (Wine Varietals Forecast),No
 Beck's Hybrids (Seed Quality & Germination),No
 CTB (Data Modeling),No
+Caterpillar (Enterprise Supplier Risk Management),No
 Caterpillar (Enterprise Traffic Reporting),No
 Caterpillar (LLM-Powered Data Dashboard),No
+Chicago Cubs Baseball Analytics (Award Prediction Model),No
 Concrete Engine (High Performance Computing to Unleash the AI Potentials),No
 Cook Medical (Clinical Study Meta-Data Monitoring),No
 Corteva (Climate Change Impact on Crop Yield),No
@@ -42,6 +41,7 @@ John Deere (Field Boundary),No
 John Deere (Parts Demand Forecasting),No
 Knudsen Institute (Training LLMs within Manufacturing),No
 MISO (Data-Driven Solutions for the Reliable Operation of the Changing Electric Grid),No
+Mathwork/Purdue Turf (Development of a Learned Language Model),No
 Microsoft (Social Analysis Platform),No
 NIIMBL (Simulated Manufacturing),No
 Purdue Athletics (Strength and Conditioning),No
