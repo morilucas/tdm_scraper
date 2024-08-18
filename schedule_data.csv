@@ -1,6 +1,4 @@
 Last TD,New Entry
-Metal Technologies (Analysis of Energy Usage),Yes
-[NDMN] Center for C-SPAN Scholarship and Education (Congressional Rhetoric),Yes
 AgRPA (Data Fusion and AI for Plant Protection),No
 AgReliant Genetics (Customer Segmentation & Prediction),No
 Allison Transmission (Clustering Vehicles Based on their Usage Metrics),No
@@ -42,6 +40,7 @@ John Deere (Field Boundary),No
 John Deere (Parts Demand Forecasting),No
 Knudsen Institute (Training LLMs within Manufacturing),No
 Mathworks/Purdue Turf (Development of a Learned Language Model),No
+Metal Technologies (Analysis of Energy Usage),No
 Microsoft (Social Analysis Platform),No
 NIIMBL (Simulated Manufacturing),No
 PepsiCo (Mapping Environmental Risks for Sustainable Operations),No
@@ -60,3 +59,4 @@ V2X (Maintenance Troubleshooter LLM),No
 Viasat (Art of Space Warfare),No
 Wabash (E-Commerce Website Analytics & Support),No
 Yamaha (Production Scheduling Optimization),No
+[NDMN] Center for C-SPAN Scholarship and Education (Congressional Rhetoric),No
